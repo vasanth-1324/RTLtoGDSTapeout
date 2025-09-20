@@ -160,7 +160,7 @@ sudo apt install gtkwave</code></pre>
 </main>
 
 <footer>
-    <p>&copy; 2025 Your Name | VLSI System Design (VSD)</p>
+    <p>&copy; 2025 K Vasanth | VLSI System Design (VSD)</p>
 </footer>
 
 </body>
